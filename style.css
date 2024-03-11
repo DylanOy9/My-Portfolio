@@ -238,4 +238,6 @@ a:visited {
 .fa-envelope {
     padding: 10px;
     margin: 20px;
+    text-decoration: none;
+    color: black;
 }
